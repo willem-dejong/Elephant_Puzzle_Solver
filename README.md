@@ -1,4 +1,5 @@
 # Elephant_Puzzle_Solver
+written in C# wpf
 solves the elephant puzzle in the least amount of moves
 the minumum number is dictated by the Equation f(n)=2^(n-1)+f(n-2) where n is the number of Elephants
 the rules are simple.
